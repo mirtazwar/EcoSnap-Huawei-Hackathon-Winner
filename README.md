@@ -14,43 +14,55 @@ Explore the complete user interface of **EcoSnap**, an AI-powered recycling and 
   <tr>
     <td><img src="assets/ui-mockups/1.png" width="100%"></td>
     <td><img src="assets/ui-mockups/2.png" width="100%"></td>
-    <td><img src="assets/ui-mockups/3.png" width="100%"></td>
   </tr>
   <tr>
+    <td><img src="assets/ui-mockups/3.png" width="100%"></td>
     <td><img src="assets/ui-mockups/4.png" width="100%"></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📸 Show More UI Screens</b></summary>
+
+<br>
+
+<table>
+  <tr>
     <td><img src="assets/ui-mockups/5.png" width="100%"></td>
     <td><img src="assets/ui-mockups/6.png" width="100%"></td>
   </tr>
   <tr>
     <td><img src="assets/ui-mockups/7.png" width="100%"></td>
     <td><img src="assets/ui-mockups/8.png" width="100%"></td>
-    <td><img src="assets/ui-mockups/9.png" width="100%"></td>
   </tr>
   <tr>
+    <td><img src="assets/ui-mockups/9.png" width="100%"></td>
     <td><img src="assets/ui-mockups/10.png" width="100%"></td>
+  </tr>
+  <tr>
     <td><img src="assets/ui-mockups/11.png" width="100%"></td>
     <td><img src="assets/ui-mockups/12.png" width="100%"></td>
   </tr>
   <tr>
     <td><img src="assets/ui-mockups/13.png" width="100%"></td>
     <td><img src="assets/ui-mockups/14.png" width="100%"></td>
-    <td><img src="assets/ui-mockups/15.png" width="100%"></td>
   </tr>
   <tr>
+    <td><img src="assets/ui-mockups/15.png" width="100%"></td>
     <td><img src="assets/ui-mockups/16.png" width="100%"></td>
+  </tr>
+  <tr>
     <td><img src="assets/ui-mockups/17.png" width="100%"></td>
     <td><img src="assets/ui-mockups/18.png" width="100%"></td>
   </tr>
   <tr>
     <td><img src="assets/ui-mockups/19.png" width="100%"></td>
     <td><img src="assets/ui-mockups/20.png" width="100%"></td>
-    <td></td>
   </tr>
 </table>
 
-<div align="center">
+</details>
 
----
 
 <img src="assets/cover-banner.png" width="100%">
 
