@@ -1,3 +1,58 @@
+---
+
+# 👤 User Registration Screen
+
+<p align="center">
+  <img src="assets/screens/register_screen.png" alt="EcoSnap Registration Screen" width="300"/>
+</p>
+
+## 📌 Overview
+
+The **User Registration Screen** enables new users to create an EcoSnap account before accessing the application's AI-powered waste classification features. This screen provides a simple and secure onboarding experience using email-based authentication.
+
+## ✨ Key Features
+
+- 📧 Email registration
+- 🔒 Secure password creation
+- ✅ Password confirmation validation
+- 🟢 One-tap account registration
+- 🔁 Direct navigation back to the Login screen for existing users
+- ⬅️ Back button for easy navigation
+
+## ⚙️ Functionalities
+
+- Validates user input before account creation.
+- Ensures the password and confirmation password match.
+- Prevents incomplete registration by requiring all mandatory fields.
+- Creates a new user account using **Firebase Authentication**.
+- Redirects users to the application after successful registration.
+
+## 🎨 UI & User Experience
+
+The registration interface follows EcoSnap's clean and minimal design philosophy:
+
+- Soft green accent color representing sustainability.
+- Simple form layout for faster user onboarding.
+- Large input fields for improved accessibility.
+- Clear navigation between Login and Register pages.
+- Minimal distractions, allowing users to complete registration quickly.
+
+## 💻 Technologies Used
+
+- Flutter
+- Firebase Authentication
+- Material Design Widgets
+- Form Validation
+- TextFormField
+- ElevatedButton
+
+## 🎯 Purpose
+
+A secure authentication system ensures that every user has a personalized EcoSnap account. This enables future features such as user profiles, recycling history, AI prediction records, achievements, and personalized sustainability insights.
+
+> **Recruiter Note:**  
+> This screen demonstrates the implementation of secure user authentication, form validation, and Firebase integration while maintaining a clean and user-friendly interface.
+
 <div align="center">
 
 # 🌱 EcoSnap
